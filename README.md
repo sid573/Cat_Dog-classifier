@@ -1,4 +1,5 @@
-# Cat_Dog-classifier
+# Cat_Dog-classifier (Keras)
+
 
 Cat_Dog consist of 3 .py files which are executable.
 train.py which is used for training and saving model in two different type of format.
