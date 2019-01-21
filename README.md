@@ -10,7 +10,9 @@ There are 2 different files to execute both save model:
 my_model.h5 --->  run_my_model_h5.py
 my_model.json + my_weight.h5  ---->   run_my_model_json_weight.py
 
+
 my_model is done
+
 
 
 input format of both is:
